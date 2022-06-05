@@ -1,2 +1,9 @@
 # easter-eggs_MT
-this is a easter egg mod for Minetest, you can use it just for decoration. In the mod you can find 6 different eggs.
+This mod addes to you`re worls spawned eggs, you can craft them and eat the chocolate.
+
+you can find here 6 various eggs.
+
+thanks to my helpers:
+- Glubux
+- Sven
+- APercy
