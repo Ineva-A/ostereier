@@ -1,0 +1,12 @@
+#download link: https://content.minetest.net/
+
+default: https://content.minetest.net/packages/Minetest/minetest_game/
+
+farming: https://content.minetest.net/packages/TenPlus1/farming/
+
+mobs: https://content.minetest.net/packages/TenPlus1/mobs/
+
+mobs_animal: https://content.minetest.net/packages/TenPlus1/mobs_animal/
+
+hunger_ng: https://content.minetest.net/packages/Linuxdirk/hunger_ng/
+
