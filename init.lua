@@ -265,7 +265,6 @@ minetest.register_node ('ostereier:osterei', {
 
 --Osterei 2
 minetest.register_node ('ostereier:osterei2', {
-	drop = 'ostereier:osterei2',
     description = 'Osterei',
     drawtype = 'mesh',
     mesh = egg_3d_model,
@@ -283,7 +282,6 @@ minetest.register_node ('ostereier:osterei2', {
 
 --Osterei 3
 minetest.register_node ('ostereier:osterei3', {
-	drop = 'ostereier:osterei3',
     description = 'Osterei',
     drawtype = 'mesh',
     mesh = egg_3d_model,
@@ -301,7 +299,6 @@ minetest.register_node ('ostereier:osterei3', {
 
 --Osterei 4
 minetest.register_node ('ostereier:osterei4', {
-	drop = 'ostereier:osterei4',
     description = 'Osterei',
     drawtype = 'mesh',
     mesh = egg_3d_model,
@@ -319,7 +316,6 @@ minetest.register_node ('ostereier:osterei4', {
 
 --Osterei 5
 minetest.register_node ('ostereier:osterei5', {
-	drop = 'ostereier:osterei5',
     description = 'Osterei',
     drawtype = 'mesh',
     mesh = egg_3d_model,
@@ -337,7 +333,6 @@ minetest.register_node ('ostereier:osterei5', {
 
 --Osterei 6
 minetest.register_node ('ostereier:osterei6', {
-	drop = 'ostereier:osterei6',
     description = 'Osterei',
     drawtype = 'mesh',
     mesh = egg_3d_model,
@@ -468,7 +463,6 @@ hunger_ng.add_hunger_data("ostereier:osterei_rainbow", {satiates = 6})
 --[[
 --osterei_korb
 minetest.register_node ('ostereier:osterei_korb', {
-	drop = 'ostereier:osterei_korb',
     description = 'Osterei Korb',
     drawtype = 'mesh',
     mesh = egg_3d_model,
