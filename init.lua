@@ -461,19 +461,5 @@ hunger_ng.add_hunger_data("ostereier:osterei_rainbow", {satiates = 6})
 
 
 --[[
---osterei_korb
-minetest.register_node ('ostereier:osterei_korb', {
-    description = 'Osterei Korb',
-    drawtype = 'mesh',
-    mesh = egg_3d_model,
-    tiles = {'osterei_korb.png'},
-    inventory_image = 'osterei_korb.png',
-    groups = egg_group,
-    paramtype = 'light',
-    paramtype2 = 'facedir',
-    selection_box = {
-        type = 'fixed',
-        fixed = egg_dim,
-    },
-})
+
 ]]--
