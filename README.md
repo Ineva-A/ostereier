@@ -1,9 +1,9 @@
 # easter-eggs_MT
-This mod addes to you`re worls spawned eggs, you can craft them and eat the chocolate.
+This mod adds to your worlds spawned eggs. You can craft easter eggs and eat the chocolate.
 
-you can find here 6 various eggs.
+You can find here 6 various eggs.
 
-thanks to my helpers:
+Thanks to my helpers:
 - Glubux
 - Sven
 - APercy
