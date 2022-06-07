@@ -1,0 +1,15 @@
+# textdomain: osterier
+
+Schokolade teig=
+Schokolade Ei=
+Kakao Pulver=
+Kakao Butter=
+flüssige weisse Schokolade=
+weisse Schokolade=
+grün cyan Glasur=
+blau violete Glasur=
+braune Glasur=
+dunkel grüne Glasur=
+gelb orange Glasur=
+rot gelbe Glasur=
+Osterei=
